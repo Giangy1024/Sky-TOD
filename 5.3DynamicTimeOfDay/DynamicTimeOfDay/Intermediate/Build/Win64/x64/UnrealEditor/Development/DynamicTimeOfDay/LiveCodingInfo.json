@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DynamicTimeOfDay.cpp.obj": [
+			"CurvesUtilityLibrary.gen.cpp.obj",
+			"DynamicTimeOfDay.init.gen.cpp.obj",
+			"TimeOfDay.gen.cpp.obj",
+			"TimeOfDayVariables.gen.cpp.obj",
+			"CurvesUtilityLibrary.cpp.obj",
+			"DynamicTimeOfDay.cpp.obj",
+			"TimeOfDay.cpp.obj"
+		]
+	}
+}
